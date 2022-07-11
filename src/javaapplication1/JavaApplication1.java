@@ -15,6 +15,7 @@ public class JavaApplication1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //oda tonta me caes mal cuando eres asi
         System.out.println("la suma de 5+8 es igual 13");
     }
     
